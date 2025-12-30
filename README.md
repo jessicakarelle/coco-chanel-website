@@ -31,8 +31,8 @@ cd coco-chanel-website
 Open `index.html` in your browser to view the website.
 
 ## Credits
-| Jessica Karelle | [![GitHub](https://img.shields.io/badge/GitHub-jktchikapa-181717?style=flat&logo=github)](https://github.com/jktchikapa) |
-| Patricelie Rimelda | [![GitHub](https://img.shields.io/badge/GitHub-username-181717?style=flat&logo=github)](https://github.com/Patricelie) |
+- [Jessica Karelle](https://github.com/jktchikapa)
+- [Patrivelie Rimelda](https://github.com/Patricelie)
 
 ## License
 Educational Project
