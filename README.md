@@ -32,7 +32,7 @@ Open `index.html` in your browser to view the website.
 
 ## Credits
 - [Jessica Karelle](https://github.com/jktchikapa)
-- [Patrivelie Rimelda](https://github.com/Patricelie)
+- [Patricelie Rimelda](https://github.com/Patricelie)
 
 ## License
 Educational Project
